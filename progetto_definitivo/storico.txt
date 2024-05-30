@@ -1,6 +1,0 @@
-data ala anteriore prodotta:2024-05-30 15:05:10
-costoanteriore:1657700
-budget rimanente ali anteriori:28342300
-numero ali rimanenti:1
-
-
