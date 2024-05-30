@@ -1,0 +1,72 @@
+Ricerca fallita, nessun materiale trovato
+Budget ricerca rimasto: 28411247
+
+
+Nuovo materiale trovato
+Caratteristiche
+Resilienza:47,Duttilità:17
+Budget ricerca rimasto: 25565260
+
+
+Nuovo materiale trovato
+Caratteristiche
+Resilienza:111,Duttilità:16
+Budget ricerca rimasto: 24224122
+
+
+Nuovo materiale trovato
+Caratteristiche
+Resilienza:195,Duttilità:143
+Budget ricerca rimasto: 21881658
+
+
+Ricerca fallita, nessun materiale trovato
+Budget ricerca rimasto: 20113491
+
+
+Ricerca fallita, nessun materiale trovato
+Budget ricerca rimasto: 18746155
+
+
+Ricerca fallita, nessun materiale trovato
+Budget ricerca rimasto: 16467475
+
+
+Ricerca fallita, nessun materiale trovato
+Budget ricerca rimasto: 15328818
+
+
+Ricerca fallita, nessun materiale trovato
+Budget ricerca rimasto: 13843628
+
+
+data telaio posteriore prodotto:2024-05-30 14:16:16
+costoposteriore:1646889
+Stato telaio posteriore:100
+budget rimanente telaio posteriore:28353111
+
+
+data ala anteriore prodotta:2024-05-30 14:16:18
+costoanteriore:1262061
+budget rimanente ali anteriori:28737939
+numero ali rimanenti:1
+
+
+ data produzione MGUK:2024-05-30 14:16:29
+costoMGUK:1592216
+valore MGUK:198
+budget rimasto MGUK: 28407784
+
+
+data produzione MGUK:2024-05-30 14:16:30
+costoMGUK:2519784
+valore MGUK:146
+budget rimasto MGUK: 27480216
+
+
+data ala anteriore prodotta:2024-05-30 14:16:59
+costoanteriore:1524919
+budget rimanente ali anteriori:27213020
+numero ali rimanenti:2
+
+
