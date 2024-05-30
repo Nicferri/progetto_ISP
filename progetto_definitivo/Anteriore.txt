@@ -1,0 +1,3 @@
+costoanteriore:1657700
+budgetrimanente:28342300
+aliDisp:1
